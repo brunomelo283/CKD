@@ -6,3 +6,10 @@ Utilizando o conjunto de dados com base em certas medidas diagnósticas tem-se c
 Árvore de decisão:
 
 ![image](https://user-images.githubusercontent.com/49500469/147489272-dd67b066-82ae-402f-9648-e87a73c661b7.png)
+
+
+Matriz de confusão:
+
+![image](https://user-images.githubusercontent.com/49500469/147489311-85e7cd75-e869-4155-9f4c-9cec35533def.png)
+
+A partir do total de 120 testes houve apenas 7 resultados com incoerência, que corresponde a uma precisão de 94% do algoritmo.
